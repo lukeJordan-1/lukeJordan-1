@@ -10,7 +10,7 @@ Hi there 👋 lukeJordan1
      
       Height in Meters: Creation of a programme to receive the height of a person in imperial measurements and convert to metric
       
-      Annual High Temperatures: 
+      Annual High Temperatures: Calulate temperatures across multiple US cities and provide an average temperature
       
       How much paint: A programme to calculate the amount of paint required to cover a fence
       
@@ -40,7 +40,8 @@ Further technical skills:
 -  OSINT: Ability to carry out Open Source investigative analysis which conforms to UK RIPA legislation
 -  Critical risk analysis and geopolitics literate: I have previously completed several modules of an International Relations degree. I have a rich professional background involving work across multiple countries, some of which have suffered conflict or humanitarian disasters. 
 -  Trained cultural advisor and analyst.
--  Trained information manager directing teams of analysts.
+-  Trained Spanish linguist.
+-  Trained information manager with experience of directing teams of analysts.
   
 Aspirations
  - I wish to develop my programming and overarching Computer Science career towards quantum computing and robotics.
