@@ -6,6 +6,7 @@ Hi there 👋 lukeJordan1
 🌱 I am currently studying the below topics at University:
   
   C++ programming - 📫 I have completed the following coding challenges:
+      
       Monthly Income: a programme designed to calculate an employee's basic pay, bonus and medical allowance using arithmetic          operators, stream manipulators and various other aspects of C++
      
       Height in Meters: Creation of a programme to receive the height of a person in imperial measurements and convert to metric
