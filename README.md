@@ -4,15 +4,24 @@ Hi there 👋 lukeJordan1
 - 🔭 I am currently working on:  C++ coding projects and assignments, building cyber security hardware and robotics projects including a robot car and arm.
 
 🌱 I am currently studying the below topics at University:
+  
   C++ programming - 📫 I have completed the following coding challenges:
       Monthly Income: a programme designed to calculate an employee's basic pay, bonus and medical allowance using arithmetic          operators, stream manipulators and various other aspects of C++
+     
       Height in Meters: Creation of a programme to receive the height of a person in imperial measurements and convert to metric
-      Annual High Temperatures:
+      
+      Annual High Temperatures: 
+      
       How much paint: A programme to calculate the amount of paint required to cover a fence
+      
       Burger Stall: Assess a foood business sales for the day
+      
       Project Hours: calculate the amount of hours worked on a project for two employees
+     
       House Budget: Calculate the typical costs involved in maintaining a property
+      
       Area of a Triangle: Calculate the area of a triangle conforming to strict mathematical formulae
+      
       Distance Travelled: Present the distance travelled of a vehicle using loops and if conditions
 
   Information assurance and security:
