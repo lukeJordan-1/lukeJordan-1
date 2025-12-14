@@ -1,9 +1,10 @@
 Hi there 👋 lukeJordan1
 
-- 💬 About me:  I am a First Year Computer Science student
-- 🔭 I am currently working on:  C++ coding projects and assignments, building cyber security hardware and robotics projects including a robot car and arm.
+  💬 About me:  I am a First Year Computer Science student
+  
+  🔭 I am currently working on:  C++ coding projects and assignments, building cyber security hardware and robotics projects including a robot car and arm.
 
-🌱 I am currently studying the below topics at University:
+  🌱 I am currently studying the below topics at University:
   
   C++ programming - 📫 I have completed the following coding challenges:
       
@@ -38,7 +39,7 @@ Hi there 👋 lukeJordan1
 - 👯 I am looking to collaborate on:  Coding challenges, CTF and hardware including robotics projects
 
 Further technical skills: 
--  OSINT: Ability to carry out Open Source investigative analysis which conforms to UK RIPA legislation
+-  OSINT: Ability to carry out Open Source investigative analysis conforming to UK policy and legislation
 -  Critical risk analysis and geopolitics literate: I have previously completed a level 5 diploma in International Relations with The Open University. I have a rich professional background involving work across multiple countries, some of which have suffered conflict or humanitarian disasters. 
 -  Trained cultural advisor and analyst.
 -  Trained Spanish linguist.
